@@ -9,7 +9,7 @@ export default function Card(){
             <div className={style.cardBody}>
                 <h3>Titolo del Post</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quos vero impedit tempora repudiandae expedita aliquam? Perferendis fuga accusantium quas voluptates ducimus nostrum, eligendi reprehenderit distinctio aperiam suscipit corporis ex.</p>
-                <button>Leggi di più</button>
+                <button><a href="#">Leggi di più</a></button>
             </div>
         </div>
     )
