@@ -1,6 +1,7 @@
 import './App.css';
 import Header  from './components/header/header';
 import Main  from './components/main';
+import Footer from "./components/Footer/footer"
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Header/>
       <Main/>
+      <Footer/>
     </>
   )
 }
